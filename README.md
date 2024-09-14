@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshbman
+- 👋 Hi, I’m @joshbman, or Joshua Badman
 - 👀 I’m interested in video games, watching anime, and cooking
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on projects in hackathons and 
